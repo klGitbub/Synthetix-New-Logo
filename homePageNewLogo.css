@@ -1,0 +1,3430 @@
+
+
+.homepagenewlogo {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 4257px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(10, 8, 23, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.homepagenewlogo .decentralisedsynthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 400px;
+  height              : auto;
+  width               : 712px;
+  position            : absolute;
+  margin              : 0;
+  left                : 363px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.75px;
+  line-height         : 39.0px;
+}
+.homepagenewlogo .foundationdeveloper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : auto;
+  width               : 499px;
+  position            : absolute;
+  margin              : 0;
+  left                : 850px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(101, 96, 133, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.homepagenewlogo .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 741px;
+  height              : 554px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tokensbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1158px;
+  height              : 62px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 593px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tokensbutton .rectangle10 {
+  background-color    : rgba(68, 36, 207, 1.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tokensbutton .viewsynths {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .rectangle3copy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2053px;
+  height              : 678px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2129px;
+  height              : 500px;
+  width               : 1185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .tokensbutton2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 438px;
+  height              : 62px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 705px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .tokensbutton2 .rectangle10 {
+  background-color    : rgba(68, 36, 207, 1.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .tokensbutton2 .learnmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .getrewardedsection .tokensbutton11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 438px;
+  height              : 62px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 242px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .tokensbutton11 .rectangle10 {
+  background-color    : rgba(68, 36, 207, 1.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .tokensbutton11 .learnmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .getrewardedsection .receiveexchangefee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 337px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(30, 26, 49, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .getrewardedsection .receivesnxinexcha {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 339px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 267px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(30, 26, 49, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .getrewardedsection .handout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 166px;
+  height              : 153px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 736px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .handout .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : 40px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .handout .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : 47px;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .handout .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .handout .rectanglepath {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 74px;
+  box-sizing          : border-box;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(86, 65, 242, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .handout .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .getrewardedforcon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 56.0px;
+  color               : rgba(30, 26, 49, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.16px;
+  line-height         : 56.0px;
+}
+.homepagenewlogo .getrewardedsection .becomeapartofthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : auto;
+  width               : 649px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(110, 109, 159, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.26px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .getrewardedsection .lock {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 152px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 306px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .lock .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .lock .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 93px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .lock .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 16px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .getrewardedsection .lock .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 32px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3798px;
+  height              : 460px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .rectangle15 {
+  background-color    : rgba(30, 24, 48, 1.0);
+  top                 : 0px;
+  height              : 459px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 161px;
+  width               : 745px;
+  position            : absolute;
+  margin              : 0;
+  left                : 590px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .swapprmintrdashboa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.19px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .group10 .group3 .termsofuseprivacy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : auto;
+  width               : 231px;
+  position            : absolute;
+  margin              : 0;
+  left                : 513px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.19px;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .group10 .group3 .howitworksaboutu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 271px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.19px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .group10 .group3 .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 25px;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 542px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logotwitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 21px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logotwitter .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logomedium {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logomedium .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .discord {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .discord .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .discord .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logoreddit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group10 .group3 .group12 .logoreddit .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 21px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .rectangle3copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3464px;
+  height              : 334px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .rectangle3copy2 .rectangle3copy1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 334px;
+  width               : 1440px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2804px;
+  height              : 584px;
+  width               : 1265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 334px;
+  width               : 309px;
+  position            : absolute;
+  margin              : 0;
+  left                : 955px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 334px;
+  box-sizing          : border-box;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(214, 213, 230, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .anoverviewofthes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.42px;
+  line-height         : 31.0px;
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .dashboard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 153px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(10, 8, 23, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 29.0px;
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 76px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 75px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .dchart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .dchart .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 7px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .dchart .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 14px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .dchart .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 21px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .dashboardtile .group15 .dchart .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 334px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 650px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 334px;
+  box-sizing          : border-box;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(214, 213, 230, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .easilyswapbetween {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 192px;
+  height              : auto;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.42px;
+  line-height         : 31.0px;
+}
+.homepagenewlogo .meetourproductssection .swapprtile .swappr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 153px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(10, 8, 23, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 29.0px;
+}
+.homepagenewlogo .meetourproductssection .swapprtile .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 76px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .group15 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .loop83 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 36px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .loop83 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .swapprtile .loop83 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 17px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 334px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 334px;
+  box-sizing          : border-box;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(214, 213, 230, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .locksnxtomintsyn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.42px;
+  line-height         : 31.0px;
+}
+.homepagenewlogo .meetourproductssection .mintrtile .mintr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(10, 8, 23, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 29.0px;
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 76px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .icomintandburn107cc7b2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 38px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .icomintandburn107cc7b2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .icomintandburn107cc7b2 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 8px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .icomintandburn107cc7b2 .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 8px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .mintrtile .group13 .icomintandburn107cc7b2 .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 27px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 334px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 334px;
+  box-sizing          : border-box;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(214, 213, 230, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .exchangesynthswith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(111, 109, 152, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.42px;
+  line-height         : 31.0px;
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .synthetixexchange {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(10, 8, 23, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 29.0px;
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 76px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 76px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 33px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 .group1 .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 .group1 .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 11px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 .group1 .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 11px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .synthetixexchangetile .group13 .group17 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .meetourproductssection .checkoutourproduc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1007px;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 56.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.16px;
+  line-height         : 56.0px;
+}
+.homepagenewlogo .meetourproductssection .herearethedappsa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : auto;
+  width               : 719px;
+  position            : absolute;
+  margin              : 0;
+  left                : 270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(110, 109, 159, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.26px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .mailinglistsection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3543px;
+  height              : 150px;
+  width               : 1185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .mailinglistsection .enteryouremailaddress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .mailinglistsection .enteryouremailaddress .enteryouremailadd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(209, 209, 209, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.54px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .mailinglistsection .enteryouremailaddress .enteryouremailadd .span1 {
+  
+}
+.homepagenewlogo .mailinglistsection .enteryouremailaddress .enteryouremailadd .span2 {
+  letter-spacing      : 0.86px;
+}
+.homepagenewlogo .mailinglistsection .enteryouremailaddress .rectangle10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 62px;
+  box-sizing          : border-box;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.homepagenewlogo .mailinglistsection .subscribebutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 62px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .mailinglistsection .subscribebutton .rectangle10 {
+  background-color    : rgba(68, 36, 207, 1.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .mailinglistsection .subscribebutton .subscribe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .mailinglistsection .subscribetothesyn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 33.0px;
+  color               : rgba(30, 26, 49, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.16px;
+  line-height         : 56.0px;
+}
+.homepagenewlogo .introducingsynths {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 927px;
+  height              : auto;
+  width               : 1047px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 56.0px;
+  color               : rgba(30, 26, 49, 1.0);
+  text-align          : center;
+  letter-spacing      : -1.16px;
+  line-height         : 56.0px;
+}
+.homepagenewlogo .synthsaretokensth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1021px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 442px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(93, 88, 126, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.homepagenewlogo .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 513px;
+  height              : 34px;
+  width               : 581px;
+  position            : absolute;
+  margin              : 0;
+  left                : 429px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group9 .rectangle13 {
+  background-color    : rgba(16, 13, 34, 1.0);
+  top                 : 0px;
+  height              : 34px;
+  box-sizing          : border-box;
+  width               : 559px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 17px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(32, 29, 52, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group9 .rectangle131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 23px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group9 .new {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .group9 .tradeforexcommodi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.homepagenewlogo .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 42px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group .group6 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 31px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group .group6 .group5 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 30px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group .group6 .group5 .group4 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 21px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .group .group6 .group5 .group4 .rectangle2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 21px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(-180deg); /* IE 9 */
+  -webkit-transform   : rotate(-180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-180deg);
+}
+.homepagenewlogo .group .group6 .group5 .group4 .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 36px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 582px;
+  height              : 329px;
+  width               : 1046px;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 327px;
+  width               : 358px;
+  position            : absolute;
+  margin              : 0;
+  left                : 688px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 327px;
+  width               : 358px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .a10xtoken {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 195px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .a10xtoken .lev10xwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .a10xtoken .lev10xwhite .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .a10xtoken .lev10xwhite .a10x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 18px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 195px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .sxagblue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .appl {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 7px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(270deg); /* IE 9 */
+  -webkit-transform   : rotate(270deg); /* Chrome, Safari, Opera */
+  transform           : rotate(270deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 25px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 19px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 19px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 .group5 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 .group5 .group4 .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 23px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 .group5 .group4 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sappl .group19 .groupcopy .group6 .group5 .group4 .rectangle2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 13px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(-180deg); /* IE 9 */
+  -webkit-transform   : rotate(-180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-180deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .andcomingsoon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : auto;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(37, 36, 75, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.63px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sxagblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .sxauskyblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commoditiesandcomingsoon .commodities {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(37, 36, 75, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.63px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .tiles .commodcryptotile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 328px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 328px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .ibtc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .ieth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .ibnb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .sbnb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .seth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .sbtc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .commodcryptotile .cryptocurrencieslo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(37, 36, 75, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.63px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 328px;
+  width               : 370px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 328px;
+  width               : 370px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 30px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .sjpyblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .seuroblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 155px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .susdblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .saudblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .skrwblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 155px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .sgbpblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tiles .fiatcurrencystablecoins .fiatcurrencystable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(37, 36, 75, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.63px;
+  line-height         : 36.0px;
+}
+.homepagenewlogo .synthetixexchangesection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1342px;
+  height              : 517px;
+  width               : 1131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 131px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 328px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 .slogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 .slogo .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 .slogo .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 29px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 .slogo .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .group14 .ynthetix {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group15 .exchange {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 54px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .adecentralisedtrad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 158px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(93, 88, 126, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.homepagenewlogo .synthetixexchangesection .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 112px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group2 .faucet {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .group2 .snxwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 254px;
+  height              : 114px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : 904px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 66px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 99px;
+  height              : 3px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 66px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .rectanglepath {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  box-sizing          : border-box;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .rectanglepath1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 26px;
+  box-sizing          : border-box;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .shapetriangle .rectanglepath2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 26px;
+  box-sizing          : border-box;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 112px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 518px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped .clipped5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 81px;
+  height              : 5px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped1 .clipped5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 5px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped2 .clipped5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 5px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped3 .clipped5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 5px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .clipped4 .clipped5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 5px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 34px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 10px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 10px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 14px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .autodisbursalsmartcontractsicon .eth .path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 14px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .synthetixexchangesection .infiniteliquidity {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .synthetixexchangesection .p2cpeertocontrac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 425px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .synthetixexchangesection .distributedcollater {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : 214px;
+  position            : absolute;
+  margin              : 0;
+  left                : 863px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.homepagenewlogo .synthetixexchangesection .over20differentsy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 424px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(110, 109, 159, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.homepagenewlogo .synthetixexchangesection .tradesareexecuted {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 424px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 398px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(110, 109, 159, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.homepagenewlogo .synthetixexchangesection .adistributedpoolo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 424px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 808px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(110, 109, 159, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.homepagenewlogo .tokensbutton1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1911px;
+  height              : 62px;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 593px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tokensbutton1 .rectangle10 {
+  background-color    : rgba(68, 36, 207, 1.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .tokensbutton1 .takemethere {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.86px;
+  line-height         : 14.0px;
+}
+.homepagenewlogo .builtonethereum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3949px;
+  height              : 73px;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 51px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 23px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 23px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builtonethereum1 .ethereumdiamon .path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 17px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .ethereum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 24px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .builtonethereum .builton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 15px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4042px;
+  height              : 73px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .network {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : 24px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .defi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 25px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 32px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .definetworklogo1 .whitedots .oval19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 51px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 22px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 22px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 16px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .definetworklogo .ethereumdiamon .path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 16px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .snxlogolight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : 63px;
+  width               : 535px;
+  position            : absolute;
+  margin              : 0;
+  left                : 452px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .snxlogolight .ynthetix {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 61px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .snxlogolight .logoglyphsnxlight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepagenewlogo .snxlogolight .logoglyphsnxlight .stroke {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 60px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.homepagenewlogo .snxlogolight .logoglyphsnxlight .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
